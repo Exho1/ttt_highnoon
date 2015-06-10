@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "westernmap/logos/barberlogo"
+	"$surfaceprop" "wood"
+	"$translucent" 1
+}
+
