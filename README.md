@@ -3,6 +3,7 @@ A Trouble in Terrorist Town map set in an old western town
 
 ## Current Version
 Alpha 7 
+
 Please don't name any edits with succession like alpha 8, 9, 10, etc. That'll screw me up if I add another version
 
 ## Terms
